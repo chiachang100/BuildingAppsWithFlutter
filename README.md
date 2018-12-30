@@ -4,17 +4,20 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 ---
 ## Flutter and Dart
 * [Flutter website](https://flutter.io/)
-  * [Flutter Get Started](https://flutter.io/docs/get-started/install)
-  * [Flutter Tutorials](https://flutter.io/docs/reference/tutorials)
-  * [Google Codelabs for Flutter](https://flutter.io/docs/codelabs)
-  * [Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md)
-  * [Build Native Mobile Apps with Flutter from Google at Udacity](https://classroom.udacity.com/courses/ud905)
   * [Flutter Showcase](https://flutter.io/showcase)
   * [Flutter Widget Catalog](https://flutter.io/docs/development/ui/widgets)
 * [Dart Language website](https://www.dartlang.org/)
   * [Dart Pad](https://dartpad.dartlang.org/)
 * [Material Design](https://material.io/)
   * [Material icons](https://material.io/tools/icons)
+
+## Flutter Tutorials
+* [Flutter Get Started](https://flutter.io/docs/get-started/install)
+* [Flutter Tutorials](https://flutter.io/docs/reference/tutorials)
+* [Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md)
+* [Google Codelabs for Flutter](https://flutter.io/docs/codelabs)
+* [Build Native Mobile Apps with Flutter from Google at Udacity](https://classroom.udacity.com/courses/ud905)
+* [Introduction to widgets](https://flutter.io/docs/development/ui/widgets-intro)
 
 ---
 ## Q&A
