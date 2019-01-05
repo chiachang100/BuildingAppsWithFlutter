@@ -4,20 +4,23 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 ---
 ## Flutter and Dart
 * [Flutter website](https://flutter.io/)
-  * [Flutter Showcase](https://flutter.io/showcase)
-  * [Flutter Widget Catalog](https://flutter.io/docs/development/ui/widgets)
+    * ([Get Started](https://flutter.io/docs/get-started/install))
+      ([utorials](https://flutter.io/docs/reference/tutorials))
+      ([Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md))
+      ([Google Codelabs](https://flutter.io/docs/codelabs))
+      ([Showcase](https://flutter.io/showcase))
+      ([Widget Catalog](https://flutter.io/docs/development/ui/widgets))
+    * [Introduction to widgets](https://flutter.io/docs/development/ui/widgets-intro)
 * [Dart Language website](https://www.dartlang.org/)
   * [Dart Pad](https://dartpad.dartlang.org/)
 * [Material Design](https://material.io/)
   * [Material icons](https://material.io/tools/icons)
 
-## Flutter Tutorials
-* [Flutter Get Started](https://flutter.io/docs/get-started/install)
-* [Flutter Tutorials](https://flutter.io/docs/reference/tutorials)
-* [Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md)
-* [Google Codelabs for Flutter](https://flutter.io/docs/codelabs)
+---
+## Other Useful Links
 * [Build Native Mobile Apps with Flutter from Google at Udacity](https://classroom.udacity.com/courses/ud905)
-* [Introduction to widgets](https://flutter.io/docs/development/ui/widgets-intro)
+* [Learn Flutter & Dart to Build iOS & Android Apps by Maximilian Schwarzmüller at Udemy](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/learn/v4/content)
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 ---
 ## Q&A
@@ -27,10 +30,6 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
   * "When pub gets a remote package, it downloads it into a single system cache directory maintained by pub."
     * On Mac and Linux, this directory defaults to `~/.pub-cache`.
     * On Windows, the file lives in `%APPDATA%\Pub\Cache\bin`.
-
----
-## Other Useful Links
-* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 ---
 
