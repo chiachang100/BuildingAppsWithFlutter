@@ -2,7 +2,7 @@
 Building beautiful native apps on iOS and Android from a single codebase with Flutter.
 
 ---
-## Flutter and Dart
+## Flutter
 * [Flutter website](https://flutter.io/)
     * ([Get Started](https://flutter.io/docs/get-started/install))
       ([utorials](https://flutter.io/docs/reference/tutorials))
@@ -15,7 +15,13 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 ---
 ## Dart
 * [Dart Language website](https://www.dartlang.org/)
-  * [Dart Pad](https://dartpad.dartlang.org/)
+    * [A Tour of Dart Language](https://www.dartlang.org/guides/language/language-tour)
+    * [Effective Dart](https://www.dartlang.org/guides/language/effective-dart)
+    * [Dart Language Specification](https://www.dartlang.org/guides/language/spec)
+    * [Dart Libraries](https://www.dartlang.org/guides/libraries)
+* [Dart Tools](https://www.dartlang.org/tools)
+    * [Dart Pad](https://dartpad.dartlang.org/)
+    * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 * [Bootstrap into Dart](https://flutter.io/docs/resources/bootstrap-into-dart)
 * [Why did Flutter choose to use Dart?](https://flutter.io/docs/resources/faq#why-did-flutter-choose-to-use-dart)
 
