@@ -40,7 +40,7 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 * [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
 * [How I built a cross-platform, connected app in ~7 days](https://medium.com/@aubykhan/how-i-built-a-cross-platform-connected-app-in-7-days-93728a987424)
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
-* [An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. by Robert Felker](https://github.com/Solido/awesome-flutter)
+* [Awesome Flutter by Robert Felker: An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.](https://github.com/Solido/awesome-flutter)
 
 ---
 ## Q&A
