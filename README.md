@@ -5,7 +5,7 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 ## Flutter
 * [Flutter website](https://flutter.io/)
     * ([Get Started](https://flutter.io/docs/get-started/install))
-      ([utorials](https://flutter.io/docs/reference/tutorials))
+      ([Tutorials](https://flutter.io/docs/reference/tutorials))
       ([Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md))
       ([Google Codelabs](https://flutter.io/docs/codelabs))
       ([Showcase](https://flutter.io/showcase))
@@ -31,19 +31,16 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
   * [Material icons](https://material.io/tools/icons)
 
 ---
-## Other Useful Links
+## More Tutorials
 * [Build Native Mobile Apps with Flutter from Google at Udacity](https://classroom.udacity.com/courses/ud905)
 * [Learn Flutter & Dart to Build iOS & Android Apps by Maximilian Schwarzmüller at Udemy](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/learn/v4/content)
-* [An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. by Robert Felker](https://github.com/Solido/awesome-flutter)
-* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+* [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
 
-### Articles
+## Other Useful Links
 * [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514)
 * [How I built a cross-platform, connected app in ~7 days](https://medium.com/@aubykhan/how-i-built-a-cross-platform-connected-app-in-7-days-93728a987424)
-* []()
-* []()
-* []()
-* []()
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+* [An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. by Robert Felker](https://github.com/Solido/awesome-flutter)
 
 ---
 ## Q&A
