@@ -32,7 +32,7 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 
 ---
 ## More Tutorials
-* [Build Native Mobile Apps with Flutter from Google at Udacity](https://classroom.udacity.com/courses/ud905)
+* [Build Native Mobile Apps with Flutter from Google at Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 * [Learn Flutter & Dart to Build iOS & Android Apps by Maximilian Schwarzmüller at Udemy](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/learn/v4/content)
 * [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
 
