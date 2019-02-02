@@ -8,6 +8,7 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 |:------:|:------:|:------:|:------:|:------:|
 | [Flutter website](https://flutter.io/) | [Get Started](https://flutter.io/docs/get-started/install) | [Tutorials](https://flutter.io/docs/reference/tutorials) | [Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md) | [Google Codelabs](https://flutter.io/docs/codelabs) |
 | [Showcase](https://flutter.io/showcase) | [Widget Catalog](https://flutter.io/docs/development/ui/widgets) | [Introduction to widgets](https://flutter.io/docs/development/ui/widgets-intro) | - | - |
+| [Material Design](https://material.io/) | [Material icons](https://material.io/tools/icons) | - | - | -|
 | - | - | - | - | -|
 
 ---
@@ -28,11 +29,6 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 | [Classes](https://www.dartlang.org/guides/language/language-tour#classes) | [Generics](https://www.dartlang.org/guides/language/language-tour#generics) | [Libraries and visibility](https://www.dartlang.org/guides/language/language-tour#libraries-and-visibility) | [Asynchrony support](https://www.dartlang.org/guides/language/language-tour#asynchrony-support) | [Generators](https://www.dartlang.org/guides/language/language-tour#generators) |
 | [Callable classes](https://www.dartlang.org/guides/language/language-tour#callable-classes) | [Isolates](https://www.dartlang.org/guides/language/language-tour#isolates) | [Typedefs](https://www.dartlang.org/guides/language/language-tour#typedefs) | [Metadata](https://www.dartlang.org/guides/language/language-tour#metadata) | - |
 | - | - | - | - | -|
-
----
-## Material Design
-* [Material Design](https://material.io/)
-  * [Material icons](https://material.io/tools/icons)
 
 ---
 ## More Tutorials
