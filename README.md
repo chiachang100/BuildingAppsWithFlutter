@@ -15,7 +15,6 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 ---
 ## Dart
 * [Dart Language website](https://www.dartlang.org/)
-    * [A Tour of Dart Language](https://www.dartlang.org/guides/language/language-tour)
     * [Effective Dart](https://www.dartlang.org/guides/language/effective-dart)
     * [Dart Language Specification](https://www.dartlang.org/guides/language/spec)
     * [Dart Libraries](https://www.dartlang.org/guides/libraries)
@@ -24,6 +23,16 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
     * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 * [Bootstrap into Dart](https://flutter.io/docs/resources/bootstrap-into-dart)
 * [Why did Flutter choose to use Dart?](https://flutter.io/docs/resources/faq#why-did-flutter-choose-to-use-dart)
+
+### [A Tour of Dart Language](https://www.dartlang.org/guides/language/language-tour)
+| Topics | Topics | Topics | Topics | Topics |
+|:------:|:------:|:------:|:------:|:------:|
+| [A basic Dart program](https://www.dartlang.org/guides/language/language-tour#a-basic-dart-program) | [Important concepts](https://www.dartlang.org/guides/language/language-tour#important-concepts) | [Keywords](https://www.dartlang.org/guides/language/language-tour#keywords) | [Variables](https://www.dartlang.org/guides/language/language-tour#variables) | [Built-in types](https://www.dartlang.org/guides/language/language-tour#built-in-types) |
+| [Function](https://www.dartlang.org/guides/language/language-tour#functions) | [Operators](https://www.dartlang.org/guides/language/language-tour#operators) | [Control flow statements](https://www.dartlang.org/guides/language/language-tour#control-flow-statements) | [Exceptions](https://www.dartlang.org/guides/language/language-tour#exceptions) | [Comments](https://www.dartlang.org/guides/language/language-tour#comments) |
+| [Classes](https://www.dartlang.org/guides/language/language-tour#classes) | [Generics](https://www.dartlang.org/guides/language/language-tour#generics) | [Libraries and visibility](https://www.dartlang.org/guides/language/language-tour#libraries-and-visibility) | [Asynchrony support](https://www.dartlang.org/guides/language/language-tour#asynchrony-support) | [Generators](https://www.dartlang.org/guides/language/language-tour#generators) |
+| [Callable classes](https://www.dartlang.org/guides/language/language-tour#callable-classes) | [Isolates](https://www.dartlang.org/guides/language/language-tour#isolates) | [Typedefs](https://www.dartlang.org/guides/language/language-tour#typedefs) | [Metadata](https://www.dartlang.org/guides/language/language-tour#metadata) | - |
+| []() | []() | []() | []() | []() |
+||||||
 
 ---
 ## Material Design
