@@ -4,7 +4,7 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 ---
 ## Flutter
 
-| Topics | Topics | Topics | Topics | Topics |
+| - | - | - | - | - |
 |:------:|:------:|:------:|:------:|:------:|
 | [Flutter website](https://flutter.io/) | [Get Started](https://flutter.io/docs/get-started/install) | [Tutorials](https://flutter.io/docs/reference/tutorials) | [Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md) | [Google Codelabs](https://flutter.io/docs/codelabs) |
 | [Showcase](https://flutter.io/showcase) | [Flutter API doc](https://docs.flutter.io/) | [Widget Catalog](https://flutter.io/docs/development/ui/widgets) | [Introduction to widgets](https://flutter.io/docs/development/ui/widgets-intro) | - |
@@ -12,7 +12,7 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 | - | - | - | - | - |
 
 ### Learning Flutter
-| Topics | Topics | Topics | Topics | Topics |
+| - | - | - | - | - |
 |:------:|:------:|:------:|:------:|:------:|
 | [Introduction to widgets](https://flutter.io/docs/development/ui/widgets-intro) | [Layout tutorial](https://flutter.io/docs/development/ui/layout/tutorial) | [Adding interactivity](https://flutter.io/docs/development/ui/interactive) | []() | []() |
 | [Build Native Mobile Apps with Flutter from Google at Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) | - | - | - | - |
@@ -24,7 +24,7 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 ---
 ## Dart Language
 
-| Topics | Topics | Topics | Topics | Topics |
+| - | - | - | - | - |
 |:------:|:------:|:------:|:------:|:------:|
 | [Dart Language website](https://www.dartlang.org/) | [Install](https://www.dartlang.org/install) | [Effective Dart](https://www.dartlang.org/guides/language/effective-dart) | [Sample code](https://www.dartlang.org/samples) | [Libraries](https://www.dartlang.org/guides/libraries) |
 | [Platforms](https://www.dartlang.org/guides/platforms) | [Testing](https://www.dartlang.org/guides/testing) | [Dart Tutorials](https://www.dartlang.org/tutorials) | - | -|
@@ -32,7 +32,7 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 | - | - | - | - | - |
 
 ### [A Tour of Dart Language](https://www.dartlang.org/guides/language/language-tour)
-| Topics | Topics | Topics | Topics | Topics |
+| - | - | - | - | - |
 |:------:|:------:|:------:|:------:|:------:|
 | [A basic Dart program](https://www.dartlang.org/guides/language/language-tour#a-basic-dart-program) | [Important concepts](https://www.dartlang.org/guides/language/language-tour#important-concepts) | [Keywords](https://www.dartlang.org/guides/language/language-tour#keywords) | [Variables](https://www.dartlang.org/guides/language/language-tour#variables) | [Built-in types](https://www.dartlang.org/guides/language/language-tour#built-in-types) |
 | [Function](https://www.dartlang.org/guides/language/language-tour#functions) | [Operators](https://www.dartlang.org/guides/language/language-tour#operators) | [Control flow statements](https://www.dartlang.org/guides/language/language-tour#control-flow-statements) | [Exceptions](https://www.dartlang.org/guides/language/language-tour#exceptions) | [Comments](https://www.dartlang.org/guides/language/language-tour#comments) |
