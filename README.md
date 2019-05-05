@@ -3,7 +3,7 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 
 ---
 ## Flutter: Getting Started
-* [Flutter: Get Started (flutter.dev)](https://flutter.dev/docs/get-started/install)
+* :white_check_mark: [Flutter: Get Started (flutter.dev)](https://flutter.dev/docs/get-started/install)
     * Install, Setup an editor, Test drive, Write your first app, Learn more.
 * [Flutter: Learn More (flutter.dev)](https://flutter.dev/docs/get-started/learn-more)
 
