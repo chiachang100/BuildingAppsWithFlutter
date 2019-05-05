@@ -25,7 +25,7 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 |:------:|:------:|:------:|:------:|:------:|
 | [Flutter website](https://flutter.dev/) | [Tutorials](https://flutter.dev/docs/reference/tutorials) | [Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md) | [Google Codelabs](https://flutter.dev/docs/codelabs) | [Showcase](https://flutter.dev/showcase) |
 | [Flutter API doc](https://docs.flutter.dev/) | [Widget Catalog](https://flutter.dev/docs/development/ui/widgets) | [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro) | [Material Design](https://material.io/) | [Material icons](https://material.io/tools/icons) |
-| **[Flutter category on Google Developers](https://codelabs.developers.google.com/?cat=Flutter)** | [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0) | - | - | - |
+| **[Flutter category on Google Developers](https://codelabs.developers.google.com/?cat=Flutter)** | [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0) | [Flutter YouTube Channel](https://www.youtube.com/flutterdev) | [Flutter Cookbook](https://flutter.dev/docs/cookbook) | - |
 | - | - | - | - | - |
 | [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro) | [Layout tutorial](https://flutter.dev/docs/development/ui/layout/tutorial) | [Adding interactivity](https://flutter.dev/docs/development/ui/interactive) | [Flutter: Learn More](https://flutter.dev/docs/get-started/learn-more) | - |
 | - | - | - | - | - |
