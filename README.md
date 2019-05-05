@@ -5,12 +5,13 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 ## Flutter: Getting Started
 * :white_check_mark: [Flutter: Get Started (flutter.dev)](https://flutter.dev/docs/get-started/install)
     * Install, Setup an editor, Test drive, Write your first app, Learn more.
-* [Flutter: Learn More (flutter.dev)](https://flutter.dev/docs/get-started/learn-more)
+* :white_check_mark: [Flutter: Test drive (flutter.dev)](https://flutter.dev/docs/get-started/test-drive)
+    * "This page describes how to create a new Flutter app from templates, run it, and experience “hot reload” after you make changes to the app."
+* :white_check_mark: [Flutter: Learn More (flutter.dev)](https://flutter.dev/docs/get-started/learn-more)
 
 ---
 ## Flutter: Building Beautiful Native Apps
-1. [Flutter: Test drive (flutter.dev)](https://flutter.dev/docs/get-started/test-drive)
-    * "This page describes how to create a new Flutter app from templates, run it, and experience “hot reload” after you make changes to the app."
+1. [Flutter: Hello World App (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
 1. [Write your first Flutter App, Part 1 (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
 1. [Write your first Flutter App, Part 2 (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
 1. [Firebase for Flutter (flutter.dev)](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
