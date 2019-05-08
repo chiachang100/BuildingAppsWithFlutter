@@ -6,3 +6,4 @@ This Flutter 'Baby Name' app was created by following the instructions described
 
 ## Resources
 * [Cloud Firestore Plugin for Flutter](https://pub.dartlang.org/packages/cloud_firestore)
+* [FlutterFire Flutter Plugins](https://github.com/flutter/plugins/blob/master/FlutterFire.md)
