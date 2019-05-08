@@ -1,8 +1,9 @@
-# Building Apps with Flutter
-Building beautiful native apps on iOS and Android from a single codebase with Flutter.
+# Joy with Flutter
+Joyfully building beautiful native apps on iOS and Android from a single codebase with Flutter.
 
 ---
 ## Flutter: Getting Started
+* :white_check_mark: [Flutter Home (flutter.dev)](https://flutter.dev/).
 * :white_check_mark: [Flutter: Get Started (flutter.dev)](https://flutter.dev/docs/get-started/install)
     * Install, Setup an editor, Test drive, Write your first app, Learn more.
 * :white_check_mark: [Flutter: Test drive (flutter.dev)](https://flutter.dev/docs/get-started/test-drive)
@@ -11,25 +12,23 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 
 ---
 ## Flutter: Building Beautiful Native Apps
-1. [Flutter: Hello World App (flutter.dev) (20 min)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
-1. [Write your first Flutter App - 'Startup Namer', Part 1 (flutter.dev) (43 min)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
-1. [Write your first Flutter App - 'Startup Namer', Part 2 (flutter.dev) (43 min)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
-1. [Firebase for Flutter - 'Baby Name' (flutter.dev) (61 min)](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
-1. [Building Beautiful UIs with Flutter - 'friendlychat' (flutter.dev) (90 min)](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
-1. [MDC-101 Flutter: Material Components (MDC) Basics (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-101-flutter/#0)
-1. [MDC-102 Flutter: Material Structure and Layout (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-102-flutter/#0)
-1. [MDC-103 Flutter: Material Theming with Color, Shape, Elevation, and Type (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-103-flutter/#0)
-1. [MDC-104 Flutter: Material Advanced Components (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-104-flutter/#0)
+1. :smile: [Flutter: Hello World App (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
+1. :smile: [Write your first Flutter App, Part 1 (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
+1. :smile: [Write your first Flutter App, Part 2 (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
+1. :smile: [Firebase for Flutter (flutter.dev)](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
+1. :smile: [MDC-101 Flutter: Material Components (MDC) Basics (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-101-flutter/#0)
+1. :smile: [MDC-102 Flutter: Material Structure and Layout (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-102-flutter/#0)
+1. :smile: [MDC-103 Flutter: Material Theming with Color, Shape, Elevation, and Type (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-103-flutter/#0)
+1. :smile: [MDC-104 Flutter: Material Advanced Components (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-104-flutter/#0)
 
 ---
 ## Flutter: Learning More
 | - | - | - | - | - |
 |:------:|:------:|:------:|:------:|:------:|
-| [Flutter website](https://flutter.dev/) | [Tutorials](https://flutter.dev/docs/reference/tutorials) | [Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md) | [Google Codelabs](https://flutter.dev/docs/codelabs) | [Showcase](https://flutter.dev/showcase) |
+| [Tutorials](https://flutter.dev/docs/reference/tutorials) | [Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md) | [Google Codelabs](https://flutter.dev/docs/codelabs) | [Showcase](https://flutter.dev/showcase) | **[Flutter category on Google Developers](https://codelabs.developers.google.com/?cat=Flutter)** |
 | [Flutter API doc](https://docs.flutter.dev/) | [Widget Catalog](https://flutter.dev/docs/development/ui/widgets) | [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro) | [Material Design](https://material.io/) | [Material icons](https://material.io/tools/icons) |
-| **[Flutter category on Google Developers](https://codelabs.developers.google.com/?cat=Flutter)** | [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0) | [Flutter YouTube Channel](https://www.youtube.com/flutterdev) | [Flutter Cookbook](https://flutter.dev/docs/cookbook) | - |
-| - | - | - | - | - |
-| [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro) | [Layout tutorial](https://flutter.dev/docs/development/ui/layout/tutorial) | [Adding interactivity](https://flutter.dev/docs/development/ui/interactive) | [Flutter: Learn More](https://flutter.dev/docs/get-started/learn-more) | - |
+|  [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0) | [Flutter YouTube Channel](https://www.youtube.com/flutterdev) | [Flutter Cookbook](https://flutter.dev/docs/cookbook) | [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro) | [Layout tutorial](https://flutter.dev/docs/development/ui/layout/tutorial) |
+| [Adding interactivity](https://flutter.dev/docs/development/ui/interactive) | [Flutter: Learn More](https://flutter.dev/docs/get-started/learn-more) | - | - | - |
 | - | - | - | - | - |
 | [Build Native Mobile Apps with Flutter from Google at Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) | - | - | - | - |
 | - | - | - | - | - |
