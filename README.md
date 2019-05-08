@@ -1,5 +1,5 @@
-# Building Apps with Flutter
-Building beautiful native apps on iOS and Android from a single codebase with Flutter.
+# Joy with Flutter
+Joyfully building beautiful native apps on iOS and Android from a single codebase with Flutter.
 
 ---
 ## Flutter: Getting Started
