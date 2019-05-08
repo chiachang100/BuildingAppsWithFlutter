@@ -13,3 +13,7 @@ pubspec.lock
 doc/api/
 
 .DS_Store
+
+google-services.json
+GoogleService-Info.plist
+

@@ -11,10 +11,11 @@ Building beautiful native apps on iOS and Android from a single codebase with Fl
 
 ---
 ## Flutter: Building Beautiful Native Apps
-1. [Flutter: Hello World App (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
-1. [Write your first Flutter App, Part 1 (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
-1. [Write your first Flutter App, Part 2 (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
-1. [Firebase for Flutter (flutter.dev)](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
+1. [Flutter: Hello World App (flutter.dev) (20 min)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
+1. [Write your first Flutter App - 'Startup Namer', Part 1 (flutter.dev) (43 min)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
+1. [Write your first Flutter App - 'Startup Namer', Part 2 (flutter.dev) (43 min)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
+1. [Firebase for Flutter - 'Baby Name' (flutter.dev) (61 min)](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
+1. [Building Beautiful UIs with Flutter - 'friendlychat' (flutter.dev) (90 min)](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
 1. [MDC-101 Flutter: Material Components (MDC) Basics (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-101-flutter/#0)
 1. [MDC-102 Flutter: Material Structure and Layout (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-102-flutter/#0)
 1. [MDC-103 Flutter: Material Theming with Color, Shape, Elevation, and Type (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-103-flutter/#0)
