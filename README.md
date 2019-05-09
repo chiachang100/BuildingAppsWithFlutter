@@ -28,7 +28,7 @@ Joyfully building beautiful native apps on iOS and Android from a single codebas
 | [Tutorials](https://flutter.dev/docs/reference/tutorials) | [Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md) | [Google Codelabs](https://flutter.dev/docs/codelabs) | [Showcase](https://flutter.dev/showcase) | **[Flutter category on Google Developers](https://codelabs.developers.google.com/?cat=Flutter)** |
 | [Flutter API doc](https://docs.flutter.dev/) | [Widget Catalog](https://flutter.dev/docs/development/ui/widgets) | [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro) | [Material Design](https://material.io/) | [Material icons](https://material.io/tools/icons) |
 |  [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0) | [Flutter YouTube Channel](https://www.youtube.com/flutterdev) | [Flutter Cookbook](https://flutter.dev/docs/cookbook) | [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro) | [Layout tutorial](https://flutter.dev/docs/development/ui/layout/tutorial) |
-| [Adding interactivity](https://flutter.dev/docs/development/ui/interactive) | [Flutter: Learn More](https://flutter.dev/docs/get-started/learn-more) | - | - | - |
+| [Adding interactivity](https://flutter.dev/docs/development/ui/interactive) | [Flutter: Learn More](https://flutter.dev/docs/get-started/learn-more) | [Next Steps: Sharing your Flutter apps with friends](https://codelabs.developers.google.com/codelabs/flutter-firebase/#11) | - | - |
 | - | - | - | - | - |
 | [Build Native Mobile Apps with Flutter from Google at Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) | - | - | - | - |
 | - | - | - | - | - |
