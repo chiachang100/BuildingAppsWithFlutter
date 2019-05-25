@@ -30,8 +30,11 @@ Joyfully building beautiful native apps on iOS and Android from a single codebas
 |  [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0) | [Flutter YouTube Channel](https://www.youtube.com/flutterdev) | [Flutter Cookbook](https://flutter.dev/docs/cookbook) | [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro) | [Layout tutorial](https://flutter.dev/docs/development/ui/layout/tutorial) |
 | [Adding interactivity](https://flutter.dev/docs/development/ui/interactive) | [Flutter: Learn More](https://flutter.dev/docs/get-started/learn-more) | - | - | - |
 | - | - | - | - | - |
-| [Build Native Mobile Apps with Flutter from Google at Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) | - | - | - | - |
-| - | - | - | - | - |
+
+* [The Complete Flutter Development Bootcamp Using Dart, Angela Yu, The App Grewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart/)
+* [Build Native Mobile Apps with Flutter from Google at Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+* [Learn Flutter & Dart to Build iOS & Android Apps, Maximilian Schwarzmüller, Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+* [Flutter & Dart - The Complete Flutter App Development Course, Paulo Dichone, Udemy](https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/)
 
 ---
 ## Dart Language
@@ -73,6 +76,8 @@ Joyfully building beautiful native apps on iOS and Android from a single codebas
   * "When pub gets a remote package, it downloads it into a single system cache directory maintained by pub."
     * On Mac and Linux, this directory defaults to `~/.pub-cache`.
     * On Windows, the file lives in `%APPDATA%\Pub\Cache\bin`.
+* [How to remove DEBUG banner?](https://stackoverflow.com/questions/48893935/how-to-remove-debug-banner-in-flutter-on-android-emulator/48893964)
+  * On your `MaterialApp` set `debugShowCheckedModeBanner` to `false`.
 
 ---
 
