@@ -67,6 +67,9 @@ Joyfully building beautiful native apps on iOS and Android from a single codebas
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 * [Awesome Flutter by Robert Felker: An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.](https://github.com/Solido/awesome-flutter)
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+* [Google Fonts](https://fonts.google.com/)
+* [Material Icons](https://material.io/tools/icons/?style=baseline)
+    * [Flutter Material Icons](https://api.flutter.dev/flutter/material/Icons-class.html)
 
 ---
 ## Q&A
