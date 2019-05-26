@@ -1,5 +1,5 @@
-# Joy with Flutter
-Joyfully building beautiful native apps on iOS and Android from a single codebase with Flutter.
+# Happy Flutter Developer
+Be a happy Flutter developer by building beautiful native apps on iOS and Android with Flutter.
 
 ---
 ## Flutter: Getting Started
