@@ -70,6 +70,8 @@ Be a happy Flutter developer by building beautiful native apps on iOS and Androi
 * [Google Fonts](https://fonts.google.com/)
 * [Material Icons](https://material.io/tools/icons/?style=baseline)
     * [Flutter Material Icons](https://api.flutter.dev/flutter/material/Icons-class.html)
+* [Material Palette](https://www.materialpalette.com/)
+* [free sound](https://freesound.org/)
 
 ---
 ## Q&A
