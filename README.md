@@ -20,6 +20,7 @@ Happily building beautiful native apps on iOS and Android and More with Flutter.
 1. :smile: [MDC-102 Flutter: Material Structure and Layout (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-102-flutter/#0)
 1. :smile: [MDC-103 Flutter: Material Theming with Color, Shape, Elevation, and Type (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-103-flutter/#0)
 1. :smile: [MDC-104 Flutter: Material Advanced Components (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-104-flutter/#0)
+1. :smile: [Building a web application with Flutter](https://flutter.dev/docs/get-started/web)
 
 ---
 ## Flutter: Learning More
