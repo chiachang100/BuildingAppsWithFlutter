@@ -36,6 +36,7 @@ Happily building beautiful native apps on iOS and Android and More with Flutter.
 * [Build Native Mobile Apps with Flutter from Google at Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 * [Learn Flutter & Dart to Build iOS & Android Apps, Maximilian Schwarzmüller, Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 * [Flutter & Dart - The Complete Flutter App Development Course, Paulo Dichone, Udemy](https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/)
+* [Joy AI Gallery](https://github.com/chiachang100/joy_ai_gallery/blob/master/README.md)
 
 ---
 ## Dart Language
@@ -60,6 +61,8 @@ Happily building beautiful native apps on iOS and Android and More with Flutter.
 ## More Tutorials
 * [Learn Flutter & Dart to Build iOS & Android Apps by Maximilian Schwarzmüller at Udemy](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/learn/v4/content)
 * [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
+* [Getting response from REST API in Flutter](https://blog.usejournal.com/getting-response-from-rest-api-in-flutter-7e0b00c459bd)
+
 
 ## Other Useful Links
 * [Why did Flutter choose to use Dart?](https://flutter.dev/docs/resources/faq#why-did-flutter-choose-to-use-dart)
