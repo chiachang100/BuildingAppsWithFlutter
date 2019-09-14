@@ -61,8 +61,8 @@ Happily building beautiful native apps on iOS and Android and More with Flutter.
 ## More Tutorials
 * [Learn Flutter & Dart to Build iOS & Android Apps by Maximilian Schwarzmüller at Udemy](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/learn/v4/content)
 * [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
+* [Build Your First App with Flutter: Fetching Data from an API](https://blog.codeminer42.com/build-your-first-app-with-flutter-getting-data-from-api-c9fb4c2a6812)
 * [Getting response from REST API in Flutter](https://blog.usejournal.com/getting-response-from-rest-api-in-flutter-7e0b00c459bd)
-
 
 ## Other Useful Links
 * [Why did Flutter choose to use Dart?](https://flutter.dev/docs/resources/faq#why-did-flutter-choose-to-use-dart)
