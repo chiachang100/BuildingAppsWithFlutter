@@ -73,6 +73,7 @@ Happily building beautiful native apps on iOS and Android and More with Flutter.
     * [Flutter Material Icons](https://api.flutter.dev/flutter/material/Icons-class.html)
 * [Material Palette](https://www.materialpalette.com/)
 * [free sound](https://freesound.org/)
+* [JSON In a Nutshell](https://medium.com/omarelgabrys-blog/json-in-a-nutshell-7d638dfea7cc)
 
 ---
 ## Q&A
