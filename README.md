@@ -1,5 +1,5 @@
 # Happy Fluttering
-Learning to become a happy Flutter Developer and happy fluttering in building beautiful native apps on iOS and Android and more.
+Becoming a happy Flutter Developer and happy fluttering in building beautiful native apps on iOS and Android and more.
 
 ---
 ## Flutter: Getting Started
