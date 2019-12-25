@@ -1,69 +1,30 @@
-# Happy Fluttering
+# Flutter Kicks
 Becoming a happy Flutter Developer and happy fluttering in building beautiful native apps on iOS and Android and more.
 
 ---
 ## Flutter: Getting Started
-* :white_check_mark: [Flutter Home (flutter.dev)](https://flutter.dev/).
 * :white_check_mark: [Flutter: Get Started (flutter.dev)](https://flutter.dev/docs/get-started/install)
-    * Install, Setup an editor, Test drive, Write your first app, Learn more.
-* :white_check_mark: [Flutter: Test drive (flutter.dev)](https://flutter.dev/docs/get-started/test-drive)
-    * "This page describes how to create a new Flutter app from templates, run it, and experience “hot reload” after you make changes to the app."
-* :white_check_mark: [Flutter: Learn More (flutter.dev)](https://flutter.dev/docs/get-started/learn-more)
+* :white_check_mark: [Flutter: Tutorials (https://flutter.dev/docs/reference/tutorials)
 
 ---
-## Flutter: Building Beautiful Native Apps
-1. :smile: [Flutter: Hello World App (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
-1. :smile: [Write your first Flutter App, Part 1 (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0)
-1. :smile: [Write your first Flutter App, Part 2 (flutter.dev)](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2/#0)
-1. :smile: [Firebase for Flutter (flutter.dev)](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
-1. :smile: [MDC-101 Flutter: Material Components (MDC) Basics (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-101-flutter/#0)
-1. :smile: [MDC-102 Flutter: Material Structure and Layout (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-102-flutter/#0)
-1. :smile: [MDC-103 Flutter: Material Theming with Color, Shape, Elevation, and Type (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-103-flutter/#0)
-1. :smile: [MDC-104 Flutter: Material Advanced Components (flutter.dev)](https://codelabs.developers.google.com/codelabs/mdc-104-flutter/#0)
-1. :smile: [Building a web application with Flutter](https://flutter.dev/docs/get-started/web)
+## Flutter Resources
+* [Flutter home](https://flutter.dev/)
+* [Google Codelabs for Flutter](https://codelabs.developers.google.com/?cat=Flutter)
 
----
-## Flutter: Learning More
-| - | - | - | - | - |
-|:------:|:------:|:------:|:------:|:------:|
-| [Tutorials](https://flutter.dev/docs/reference/tutorials) | [Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md) | [Google Codelabs](https://flutter.dev/docs/codelabs) | [Showcase](https://flutter.dev/showcase) | **[Flutter category on Google Developers](https://codelabs.developers.google.com/?cat=Flutter)** |
-| [Flutter API doc](https://docs.flutter.dev/) | [Widget Catalog](https://flutter.dev/docs/development/ui/widgets) | [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro) | [Material Design](https://material.io/) | [Material icons](https://material.io/tools/icons) |
-|  [Building Beautiful UIs with Flutter](https://codelabs.developers.google.com/codelabs/flutter/#0) | [Flutter YouTube Channel](https://www.youtube.com/flutterdev) | [Flutter Cookbook](https://flutter.dev/docs/cookbook) | [Introduction to widgets](https://flutter.dev/docs/development/ui/widgets-intro) | [Layout tutorial](https://flutter.dev/docs/development/ui/layout/tutorial) |
-| [Adding interactivity](https://flutter.dev/docs/development/ui/interactive) | [Flutter: Learn More](https://flutter.dev/docs/get-started/learn-more) | [Next Steps: Sharing your Flutter apps with friends](https://codelabs.developers.google.com/codelabs/flutter-firebase/#11) | [Fast QR Reader View Plugin](https://pub.dev/packages/fast_qr_reader_view) | - |
-| - | - | - | - | - |
-
-* [The Complete Flutter Development Bootcamp Using Dart, Angela Yu, The App Grewery](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart/)
+### Online Courses
+* [The Complete 2020 Flutter Development Bootcamp with Dart @Udemy By Angela Yu](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+* [Learn Flutter & Dart to Build iOS & Android Apps @Udemy By Maximilian Schwarzmüller](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 * [Build Native Mobile Apps with Flutter from Google at Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
-* [Learn Flutter & Dart to Build iOS & Android Apps, Maximilian Schwarzmüller, Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
-* [Flutter & Dart - The Complete Flutter App Development Course, Paulo Dichone, Udemy](https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/)
-* [Joy AI Gallery](https://github.com/chiachang100/joy_ai_gallery/blob/master/README.md)
-
----
-## Dart Language
-
-| - | - | - | - | - |
-|:------:|:------:|:------:|:------:|:------:|
-| [Dart Language website](https://www.dartlang.org/) | [Install](https://www.dartlang.org/install) | [Effective Dart](https://www.dartlang.org/guides/language/effective-dart) | [Sample code](https://www.dartlang.org/samples) | [Libraries](https://www.dartlang.org/guides/libraries) |
-| [Platforms](https://www.dartlang.org/guides/platforms) | [Testing](https://www.dartlang.org/guides/testing) | [Dart Tutorials](https://www.dartlang.org/tutorials) | - | -|
-| [Bootstrap into Dart](https://flutter.dev/docs/resources/bootstrap-into-dart) | - | - | - | - |
-| - | - | - | - | - |
-
-### [A Tour of Dart Language](https://www.dartlang.org/guides/language/language-tour)
-| - | - | - | - | - |
-|:------:|:------:|:------:|:------:|:------:|
-| [A basic Dart program](https://www.dartlang.org/guides/language/language-tour#a-basic-dart-program) | [Important concepts](https://www.dartlang.org/guides/language/language-tour#important-concepts) | [Keywords](https://www.dartlang.org/guides/language/language-tour#keywords) | [Variables](https://www.dartlang.org/guides/language/language-tour#variables) | [Built-in types](https://www.dartlang.org/guides/language/language-tour#built-in-types) |
-| [Function](https://www.dartlang.org/guides/language/language-tour#functions) | [Operators](https://www.dartlang.org/guides/language/language-tour#operators) | [Control flow statements](https://www.dartlang.org/guides/language/language-tour#control-flow-statements) | [Exceptions](https://www.dartlang.org/guides/language/language-tour#exceptions) | [Comments](https://www.dartlang.org/guides/language/language-tour#comments) |
-| [Classes](https://www.dartlang.org/guides/language/language-tour#classes) | [Generics](https://www.dartlang.org/guides/language/language-tour#generics) | [Libraries and visibility](https://www.dartlang.org/guides/language/language-tour#libraries-and-visibility) | [Asynchrony support](https://www.dartlang.org/guides/language/language-tour#asynchrony-support) | [Generators](https://www.dartlang.org/guides/language/language-tour#generators) |
-| [Callable classes](https://www.dartlang.org/guides/language/language-tour#callable-classes) | [Isolates](https://www.dartlang.org/guides/language/language-tour#isolates) | [Typedefs](https://www.dartlang.org/guides/language/language-tour#typedefs) | [Metadata](https://www.dartlang.org/guides/language/language-tour#metadata) | - |
-| - | - | - | - | - |
-
----
-## More Tutorials
-* [Learn Flutter & Dart to Build iOS & Android Apps by Maximilian Schwarzmüller at Udemy](https://www.udemy.com/learn-flutter-dart-to-build-ios-android-apps/learn/v4/content)
-* [Flutter & Dart - The Complete Flutter App Development Course](https://www.udemy.com/flutter-dart-the-complete-flutter-app-development-course/)
+* [Flutter & Dart - The Complete Flutter App Development Course @Udemy By Paulo Dichone](https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/)
 * [Build Your First App with Flutter: Fetching Data from an API](https://blog.codeminer42.com/build-your-first-app-with-flutter-getting-data-from-api-c9fb4c2a6812)
 * [Getting response from REST API in Flutter](https://blog.usejournal.com/getting-response-from-rest-api-in-flutter-7e0b00c459bd)
 * [Fluttereo by Yuvraj Pandey](https://github.com/yuvraj24/Fluttereo.git)
+
+---
+## Dart Language
+* [Dart Language website](https://www.dartlang.org/)
+* [Effective Dart](https://www.dartlang.org/guides/language/effective-dart)
+* [Bootstrap into Dart](https://flutter.dev/docs/resources/bootstrap-into-dart)
 
 ## Other Useful Links
 * [Why did Flutter choose to use Dart?](https://flutter.dev/docs/resources/faq#why-did-flutter-choose-to-use-dart)
