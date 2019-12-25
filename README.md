@@ -13,6 +13,7 @@ Becoming a happy Flutter Developer and happily flutter kicking and coding.
 
 ### Online Courses
 * [The Complete 2020 Flutter Development Bootcamp with Dart @Udemy By Angela Yu](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+    * [Flutter Course Resourses](https://github.com/londonappbrewery/Flutter-Course-Resources)
 * [Learn Flutter & Dart to Build iOS & Android Apps @Udemy By Maximilian Schwarzmüller](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 * [Build Native Mobile Apps with Flutter from Google at Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 * [Flutter & Dart - The Complete Flutter App Development Course @Udemy By Paulo Dichone](https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/)
